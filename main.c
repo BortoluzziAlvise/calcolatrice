@@ -1,6 +1,6 @@
 // main.c
 #include <stdio.h>
-#include "operazioni.h"
+#include "operazioni.c"
 
 int main() {
     printf("Somma: %d\n",     somma(4, 3));
