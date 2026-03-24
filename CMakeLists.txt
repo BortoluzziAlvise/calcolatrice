@@ -3,7 +3,4 @@ project(calcolatrice C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(calcolatrice main.c
-        operazioni.h
-        operazioni.c
-)
+add_executable(calcolatrice main.c)
